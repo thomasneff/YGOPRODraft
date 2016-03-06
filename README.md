@@ -21,6 +21,9 @@ Picking cards as the client is simple. Mouse-Over shows information of the cards
 ###Server-Client Interaction
 The server needs to configure the draft settings. As soon as this is done, the server can be started by clicking "Start Server". The client can afterwards connect to the server by entering the IP and clicking "Connect to Server". The Draft tool automatically supports multiple clients if they connect. After you connected, you wait for the other clients to connect. When all clients are connected, they can send their "Ready" message to the server. As soon as all clients are ready, the server starts to distribute the cards to the clients.
 
+### Drafting
+As soon as drafting has begun (all clients are ready), each client picks cards. After every client picked a single card, the packs are swapped around (so you see the cards the other clients got to see, like in a real draft scenario). After "Number of Cards Per Draft Round" cards were picked, new cards are pulled and distributed. This repeats until "Number of Cards per Deck" cards were chosen, after which you are able to save your drafted deck.
+
 
 ##Server configuration
 As soon as the pack folder is chosen ("jsons" folder by default), you can add packs by doubleclicking them from the "Choose Packs" list. They will then appear in the "Chosen Packs" list.
@@ -39,6 +42,9 @@ If this is ticked on, pulled cards are removed from the Booster pool. That means
 
 ###Pull only from one Pack each round
 If this is picked, every round only pulls from a single Pack in "Chosen Packs". Otherwise, cards are pulled from all Packs simultaneously.
+
+###Number of Cards per Deck
+Simply determines the number of cards per drafted deck.
 
 ##Pack-List Configuration
 The default path for packs is "jsons". If you want to add another pack, you can just add another pack file to this folder. These packs are stored as json files. In "YDKToJSONRelease" you can also find a tool which converts your YGOPRO .ydk deck files into json pack files for usage with the draft tool.
