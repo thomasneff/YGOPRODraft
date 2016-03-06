@@ -1,0 +1,502 @@
+[
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Blast with Chain"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Bottomless Trap Hole"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Butterflyoke"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Call of the Haunted"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Chain Disappearance"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Chaos Trap Hole"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Chivalry"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Compulsory Evacuation Device"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Crevice from the Different Dimension"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Crush Card Virus"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dark Bribe"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dark Deal"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dark Mirror Force"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Debunk"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Deck Devastation Virus"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Defense Draw"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dimensional Prison"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Divine Wrath"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "DNA Surgery"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Drastic Drop Off"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Drop Off"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dust Tornado"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Escape from the Dark Dimension"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Fire formation tensen"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "fire formation tenken"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Fiendish Chain"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Gozen Match"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Gravity Bind"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Hero's Rule 2"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Horn of the Phantom Beast"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Anti-Spell Fragrance"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Imperial Order"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Indimensional Matter Transporter"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Jar of Greed"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Kunai with Chain"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Last Turn"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Legacy of Yata-Garasu"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Light-Imprisoning Mirror"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Lightforce Sword"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Limit Reverse"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Macro Cosmos"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Magic Cylinder"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Magic Drain"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Magic Jammer"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Magical Arm Shield"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Malevolent Catastrophe"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Mask of Restrict"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Metal Reflect Slime"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Metalmorph"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Mind Crush"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Miracle's Wake"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Mirror Force"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Mirror Wall"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Memory of an Adversary"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Nightmare Wheel"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Ojama Trio"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Phoenix Wing Wind Blast"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Pole Position"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Pulling the Rug"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Raigeki Break"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Reckless Greed"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Return from the Different Dimension"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Ring of Destruction"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Robbin Goblin"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Royal Decree"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Royal Oppression"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Safe Zone"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Sakuretsu Armor"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Scrap-Iron Scarecrow"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Self-Destruct Button"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Seven Tools of the Bandit"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Shadow-Imprisoning Mirror"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Skill Drain"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Skull Lair"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Solemn Judgment"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Solemn Warning"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Spell Reclamation"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Spell Shield Type-8"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "The Golden Apples"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "The Selection"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "The Transmigration Prophecy"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Threacherous Trap Hole"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Threatening Roar"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Tiki Curse"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Tiki Soul"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Time Machine"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Time Seal"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Torrential Tribute"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Trap Dustshoot"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Trap Hole"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Trap Stun"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Ultimate Offering"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Vanity's Emptiness"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Waboku"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Wall of Revealing Light"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Widespread Dud"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Widespread Ruin"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Xing Zhen Hu"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Xing Zhen Hu Replica"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Zoma the Spirit"
+  }
+]

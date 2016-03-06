@@ -1,0 +1,637 @@
+[
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "A Feather of the Phoenix"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Allure of Darkness"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Ancient Forest"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Autonomous Action Unit"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Back to Square One"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Bait Doll"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Book of Eclipse"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Book of Moon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Book of Taiyo"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Brain Control"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Burden of the Mighty"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Burial from a Different Dimension"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Card Destruction"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Card of Safe Return"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Card Trader"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Cards from the Sky"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Change of Heart"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Chaos Zone"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Charge of the Light Brigade"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Cold Wave"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Confiscation"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Creature Swap"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "D.D.R. - Different Dimension Reincarnation"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dark Core"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dark Eruption"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dark Hole"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dark World Dealings"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dark World Lightning"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Delinquent Duo"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Destiny Draw"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Different Dimension Capsule"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dimension Fusion"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dimensional Fissure"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Double Cyclone"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Double Spell"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Ekibyo Drakmord"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Emergency Provisions"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Enemy Controller"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Exchange"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Fire Formation Tenki"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Fire formation Gyokkou"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Fires of Doomsday"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Fissure"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Foolish Burial"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Foolish Return"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Forbidden Chalice"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Forbidden Lance"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Gemini Spark"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Giant Trunade"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Gold Sarcophagus"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Graceful Charity"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Hammer Shot"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Hand Destruction"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Harpie's Feather Duster"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Heavy Storm"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Hidden Armory"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Inspection"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Last Will"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Level Limit - Area B"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Lightning Vortex"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "LImiter Removal"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Mage Power"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Magical Mallet"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Magical Stone Excavation"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Mausoleum of the Emperor"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Megamorph"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Messenger of Peace"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Mirage of Nightmare"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Monster Gate"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Monster Reborn"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Monster Reincarnation"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "My Body as a Shield"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Mystical Space Typhoon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Necrovalley"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Night Beam"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Nightmare's Steelcage"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Nobleman of Crossout"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Nobleman of Extermination"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Offerings to the Doomed"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "One Day of Peace"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "One for One"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Painful Choice"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Pot of Avarice"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Pot of Dichotomy"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Pot of Duality"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Pot of Greed"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Premature Burial"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Question"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Raigeki"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Reasoning"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Reinforcement of the Army"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Riryoku"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Rush Recklessly"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Ruthless Denial"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Scapegoat"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Serial Spell"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Shard of Greed"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Shield Crush"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Shrink"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Smashing Ground"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Snatch Steal"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Solar Recharge"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Soul Exchange"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Soul Release"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Soul Taker"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "spellbook of secrets"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "spellbook of the master"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "spellbook of power"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "spellbook of wisdom"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "spellbook tower"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Spellbook library of the crescent"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Spiritualism"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Storm"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Stumbling"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Swords of Revealing Light"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Temple of the Kings"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Terraforming"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "That Wacky Magic"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "The Forceful Sentry"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "The Gates of Dark World"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "The Shallow Grave"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Trade-In"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Tribute to the Doomed"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Twister"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Upstart Goblin"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Veil of Darkness"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Wonder Wand"
+  }
+]

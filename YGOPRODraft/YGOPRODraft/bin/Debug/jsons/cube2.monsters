@@ -1,0 +1,1067 @@
+[
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "A Cat of Ill Omen"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "A/D Changer"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Absolute Crusader"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Airknight Parshath"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Amazoness Chain Master"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Apprentice Magician"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Arcana Force 0 - The Fool"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Arcana Force XIV - Temperance"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Archlord Kristya"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Armageddon Knight"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Armored Bee"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Asura Priest"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Aurkus, Lightsworn Druid"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Banisher of the Radiance"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Battle Fader"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Bazoo the Soul Eater"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Beast King Barbaros"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Black Luster Soldier - Envoy of the Beginning"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Blackwing - Gale the Whirlwind"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Blackwing - Sirocco the Dawn"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Blackwing - Zephyros the Elite"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Blade Knight"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Blast Sphere"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Blizzard Dragon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Blowback Dragon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Blue Thunder T-45"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Bountiful Artemis"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Breaker the Magical Warrior"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Broww, Huntsman of Dark World"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Brron, Mad King of Dark World"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Caius the Shadow Monarch"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Cameraclops"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Card Trooper"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Cardcar D"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Celestia, Lightsworn Angel"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Chaos Emperor Dragon - Envoy of the End"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Chaos Hunter"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Chaos Sorcerer"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Chiron the Mage"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Cliff the Trap Remover"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Crusader of Endymion"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Crystal Seer"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Cyber Dragon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Cyber Jar"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Cyber Phoenix"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Cyber Valley"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "D.D. Assailant"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "D.D. Crow"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "D.D. Scout Plane"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "D.D. Survivor"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "D.D. Warrior"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "D.D. Warrior Lady"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dandylion"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dark Armed Dragon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dark Blade the Captain of the Evil World"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dark Grepher"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dark Magician of Chaos"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dark Nephthys"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dark Simorgh"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dark Valkyria"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Darkflare Dragon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Deep Diver"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dekoichi the Battlechanted Locomotive"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Des Koala"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Des Lacooda"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Destiny Hero - Dasher"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Destiny Hero - Diamond Dude"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Destiny Hero - Disk Commander"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Destiny Hero - Plasma"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Destructotron"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dimensional Alchemist"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dodger Dragon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Don Zaloog"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Doomcaliber Knight"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Drillroid"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Dupe Frog"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Eclipse Wyvern"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Effect Veiler"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Ehren, Lightsworn Monk"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Evilswarm Thunderbird"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Exarion Universe"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Exiled Force"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Exploder Dragon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Fiber Jar"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Fire fist boar"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "fire fist boar"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "fire fist leapord"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "fire fist Caribou"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "fire fist chicken"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Fire fist Gorrila"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "spellbook magician of prophecy"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Fossil Dyna Pachycephalo"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Freed the Brave Wanderer"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Garoth, Lightsworn Warrior"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Gellenduo"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Genex Ally Crusher"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Genex Ally Duradark"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Giant Rat"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Gigantes"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Goblin Attack Force"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Goldd, Wu-Lord of Dark World"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Gorz the Emissary of Darkness"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Grapha, Dragon Lord of Dark World"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Grave Squirmer"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Greenkappa"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Hammer Bounzer"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Harvest Angel of Wisdom"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Herald of Creation"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Honest"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Infernity Guardian"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Injection Fairy Lily"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Interplanetarypurplythorny Dragon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Iron Blacksmith Kotetsu"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Jain, Lightsworn Paladin"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Jenis, Lightsworn Mender"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Jinzo"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Jowgen the Spiritualist"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Judgment Dragon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Justice of Prophecy"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Karakuri Ninja mdl 339 \\\"Sazank\\\""
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "King Tiger Wanghu"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Koa'ki Meiru Drago"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Krebons"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Kycoo the Ghost Destroyer"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Lava Golem"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Legendary Jujitsu Master"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Light and Darkness Dragon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Lightpulsar Dragon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Lightray Deadalus"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Lightray Sorcerer"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Lord British Space Fighter"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Lumina, Lightsworn Paladin"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Lyla, Lightsworn Sorceress"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Magical Merchant"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Magician of Faith"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Makyura the destructor"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Majestic Mech - Ohka"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Marshmallon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Mask of Darkness"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Mist Vallery Facon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Minfeildriller"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Mobius the Frost Monarch"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Morphing Jar"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Morphing Jar #2"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Mystic Swordsman LV2"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Mystic Tomato"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Necro Gardna"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Neo-Spacian Dark Panther"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Neo-Spacian Grand Mole"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Newdoria"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Night Assailant"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Ninja Grandmaster Sasuke"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Nova Summoner"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Obelisk the Tormentor"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Old Vindictive Magician"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Penguin Soldier"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Phantom Dragon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Phantom of Chaos"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Photon Thrasher"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Possessed Dark Soul"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Prickle Fairy"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Prime Material Dragon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Prometheus, King of the Shadows"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Protector of the Sanctuary"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Raiza the Storm Monarch"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Red-Eyes Darkness Metal Dragon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Rivalry of Warlords"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Ryko, Lightsworn Hunter"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Sand Moth"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Sangan"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Sasuke Samurai #4"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Shield Wing"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Shining Angel"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Sillva, Warlord of Dark World"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Sinister Serpent"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Skelengel"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Slate Warrior"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Snipe Hunter"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Snowman Eater"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Snoww, Unlight of Dark World"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Soul of Purity and Light"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Spirit Reaper"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Strike Ninja"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Substitoad"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Summoner Monk"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Super-Nimble Mega Hamster"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Swap Frog"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Swarm of Scarabs"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Tardy Orc"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "The Dark Creator"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "The Fabled Catsith"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "The Fabled Ganashia"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "The Tricky"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Thestalos the Firestorm Monarch"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Thunder King Rai-Oh"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Tragoedia"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Treeborn Frog"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Tribe-Infecting Virus"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Tsukuyomi"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Twin-Headed Behemoth"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Vampire Dragon"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Van'Dalgyon the Dark Dragon Lord"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Vanity's Fiend"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Victoria"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Vortex Trooper"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Wind-up Rabbit"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Winged Rhynos"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Witch of the Black Forest"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Worm Linx"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Wulf, Lightsworn Beast"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Yaksha"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Yata-Garasu"
+  },
+  {
+    "rarity" : "Common",
+    "set_number" : "Cube2",
+    "name" : "Zaborg the Thunder Monarch"
+  }
+]
