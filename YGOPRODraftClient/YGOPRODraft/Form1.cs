@@ -825,5 +825,10 @@ namespace YGOPRODraft
         {
             server_ip_text = textBoxIP.Text;
         }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            finishDraft();
+        }
     }
 }
