@@ -1,13 +1,15 @@
 # YGOPRODraft
 Simple Draft Client/Server Application for YGOPRO dueling simulator
 
-##General Notes:
+##General Notes
 While this does work, it was basically only written to have a drafting app for YGOPRO for private use with friends. I decided to put it online so the YGOPRO community can have fun with it, and also maybe improve the code if anyone wants. Expect some issues, bad error handling and other inconveniences, as it basically just is a proof of concept which was designed for private use ;-)
+
+There will also probably no more bug-fixing or feature implementation on my end, as it basically does what I wanted, and I just don't have the time to improve it.
 
 ##How does it work
 Both server and client applications pull the card information from the cards.cdb file of YGOPRO. The server uses the json-Files in the jsons pack folder to query the cards.cdb file, and sends the card IDs to the client. The client queries the card ids in cards.cdb to display the card infos.
 
-##Usage: 
+##Usage
 ###Server
 Starts "YGOPRODraftServer.exe" in "ServerFiles", picks the path to the Pack folder (called "jsons" in "Serverfiles"), also picks the path to your YGORPO "cards.cdb" file.
 
@@ -42,8 +44,8 @@ If this is picked, every round only pulls from a single Pack in "Chosen Packs". 
 The default path for packs is "jsons". If you want to add another pack, you can just add another pack file to this folder. These packs are stored as json files. In "YDKToJSONRelease" you can also find a tool which converts your YGOPRO .ydk deck files into json pack files for usage with the draft tool.
 
 
-#Credits:
+#Credits
 Thanks to Lidgren, Newtonsoft for their amazing networking and JSON libraries, as well as adosreis (https://github.com/adosreis/Yugioh-Pack-Opening-Simulator) for the inspiration to use JSON files and the basic JSON files from lots of booster packs!
 
-#Probable Issues:
+#Probable Issues
 Error Handling is basically non-existant for certain cases. The disconnect of clients takes a while to actually get through to the server, which might result in "ghost" connections still active on the server. Most issues are resolved by simply restarting the server/client. 
